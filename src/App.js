@@ -2,7 +2,7 @@ import React from "react";
 import { Switch, Route } from "react-router-dom";
 
 import "./App.css";
-import { HomePage } from "./pages/home-page/homepage.page";
+import { HomePage } from "./pages/home-page/home-page.page";
 
 const HatsPage = () => (
   <div>
