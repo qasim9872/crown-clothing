@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/crwn-clothing/static/css/main.cd5aaa1c.chunk.css",
-    "main.js": "/crwn-clothing/static/js/main.175b89f0.chunk.js",
-    "main.js.map": "/crwn-clothing/static/js/main.175b89f0.chunk.js.map",
-    "runtime-main.js": "/crwn-clothing/static/js/runtime-main.6a2a0f0f.js",
-    "runtime-main.js.map": "/crwn-clothing/static/js/runtime-main.6a2a0f0f.js.map",
-    "static/js/2.1a7ef366.chunk.js": "/crwn-clothing/static/js/2.1a7ef366.chunk.js",
-    "static/js/2.1a7ef366.chunk.js.map": "/crwn-clothing/static/js/2.1a7ef366.chunk.js.map",
-    "static/js/3.44e94a94.chunk.js": "/crwn-clothing/static/js/3.44e94a94.chunk.js",
-    "static/js/3.44e94a94.chunk.js.map": "/crwn-clothing/static/js/3.44e94a94.chunk.js.map",
+    "main.css": "/crwn-clothing/static/css/main.ecfa402d.chunk.css",
+    "main.js": "/crwn-clothing/static/js/main.fad2f978.chunk.js",
+    "main.js.map": "/crwn-clothing/static/js/main.fad2f978.chunk.js.map",
+    "runtime-main.js": "/crwn-clothing/static/js/runtime-main.8137a11b.js",
+    "runtime-main.js.map": "/crwn-clothing/static/js/runtime-main.8137a11b.js.map",
+    "static/js/2.08c0fd75.chunk.js": "/crwn-clothing/static/js/2.08c0fd75.chunk.js",
+    "static/js/2.08c0fd75.chunk.js.map": "/crwn-clothing/static/js/2.08c0fd75.chunk.js.map",
+    "static/js/3.a16bff35.chunk.js": "/crwn-clothing/static/js/3.a16bff35.chunk.js",
+    "static/js/3.a16bff35.chunk.js.map": "/crwn-clothing/static/js/3.a16bff35.chunk.js.map",
     "index.html": "/crwn-clothing/index.html",
-    "static/css/main.cd5aaa1c.chunk.css.map": "/crwn-clothing/static/css/main.cd5aaa1c.chunk.css.map",
-    "static/js/2.1a7ef366.chunk.js.LICENSE.txt": "/crwn-clothing/static/js/2.1a7ef366.chunk.js.LICENSE.txt",
+    "static/css/main.ecfa402d.chunk.css.map": "/crwn-clothing/static/css/main.ecfa402d.chunk.css.map",
+    "static/js/2.08c0fd75.chunk.js.LICENSE.txt": "/crwn-clothing/static/js/2.08c0fd75.chunk.js.LICENSE.txt",
     "static/media/crown.3a4e2b15.svg": "/crwn-clothing/static/media/crown.3a4e2b15.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a2a0f0f.js",
-    "static/js/2.1a7ef366.chunk.js",
-    "static/css/main.cd5aaa1c.chunk.css",
-    "static/js/main.175b89f0.chunk.js"
+    "static/js/runtime-main.8137a11b.js",
+    "static/js/2.08c0fd75.chunk.js",
+    "static/css/main.ecfa402d.chunk.css",
+    "static/js/main.fad2f978.chunk.js"
   ]
 }
