@@ -8,7 +8,7 @@ import { Header } from "./components/header/header.component";
 import { HomePage } from "./pages/home-page/home-page.page";
 import { ShopPage } from "./pages/shop-page/shop-page.page";
 import { SignInAndSignUpPage } from "./pages/sign-in-and-sign-up-page/sign-in-and-sign-up.page";
-import { auth } from "./firebase/firebase.utils";
+import { auth } from "./firebase/firebase.core";
 
 class App extends React.Component {
   constructor(props) {
