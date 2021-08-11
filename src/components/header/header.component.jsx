@@ -8,7 +8,7 @@ import { connect } from "react-redux";
 import { CartIcon } from "../cart-icon/cart-icon.component";
 import { CartDropdown } from "../cart-dropdown/cart-dropdown.component";
 
-export const HeaderView = ({ currentUser }) => {
+export const HeaderView = ({ currentUser, isCartHidden }) => {
   return (
     <div className="header">
       <Link className="logo-container" to="/">
@@ -35,13 +35,14 @@ export const HeaderView = ({ currentUser }) => {
         )}
         <CartIcon />
       </div>
-      <CartDropdown />
+      {!isCartHidden && <CartDropdown />}
     </div>
   );
 };
 
 const mapStateToProps = (state) => ({
   currentUser: state.user.currentUser,
+  isCartHidden: state.cart.hidden,
 });
 
 export const Header = connect(mapStateToProps)(HeaderView);
